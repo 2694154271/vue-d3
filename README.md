@@ -1,4 +1,10 @@
 ue+d3 支持 节点点击之后出现数据， 单个节点可以用图片显示， 单个节点可以拖动， 整个页面可以缩放
+
+
+项目
+
+npm install 
+npm run serve
 ```vue
 <template>
   <div id="app">
